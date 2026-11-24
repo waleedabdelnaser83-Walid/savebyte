@@ -90,5 +90,5 @@ Email: [waleedabdelnaser83@gmail.com](mailto:waleedabdelnaser83@gmail.com)
 ## Screenshots
 
 <p align="center">
-  <img src="all-screenshots.png" width="100%" alt="SaveByte screenshots: home (light and dark) and settings">
+  <img src="IMG_20261124_115252_290.jpg" width="100%" alt="SaveByte screenshots: home (light and dark) and settings">
 </p>
